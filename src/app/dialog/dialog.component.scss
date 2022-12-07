@@ -1,0 +1,16 @@
+:host{
+    overflow-y: hidden;
+}
+
+mat-form-field{
+    width: 100%;
+}
+
+.radio-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.radio-button{
+    margin: 5px;
+}

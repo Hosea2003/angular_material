@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "fruits",
+      "freshness": "new",
+      "price": 500,
+      "comment": "",
+      "date": "2022-12-27T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Iphone 13",
+      "category": "electronics",
+      "freshness": "second hand",
+      "price": 800,
+      "comment": "it's a comment",
+      "date": "2023-01-18T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "banana",
+      "category": "fruits",
+      "freshness": "new",
+      "price": 200,
+      "comment": "",
+      "date": "2022-12-07T21:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

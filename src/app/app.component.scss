@@ -1,0 +1,22 @@
+:host{
+    display: flex;
+    flex-direction: column;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.product-container{
+    margin: 5rem auto;
+    min-width: 500px;
+    width: 70%;
+
+    mat-form-field{
+        width: 100%;
+    }
+}
+
+table{
+    width: 100%;
+}
